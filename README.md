@@ -1,8 +1,8 @@
-# ROS 2 TASKS – 2
+# 🚀ROS 2 TASKS – 2
 
 ---
 
-## I) TurtleSim
+## I) 🐢TurtleSim
 
 1. Create a ROS node to control the turtlesim bot  
    *(Move, Rotate, Go to goal)*
@@ -14,7 +14,7 @@
 
 ---
 
-## II) Publisher–Subscriber
+## II) 🔁Publisher–Subscriber
 
 Create a **chatting application** where you can send and receive text typed
 inside the terminal from one ROS node to another and vice versa.
@@ -25,7 +25,7 @@ inside the terminal from one ROS node to another and vice versa.
 
 ---
 
-## III) Custom Messages
+## III) 📨Custom Messages
 
 Design and implement a **ROS 2–based temperature monitoring system** where:
 
@@ -46,3 +46,10 @@ Design and implement a **ROS 2–based temperature monitoring system** where:
     string unit
     float32 max_safe_temperature
     bool over_temperature
+
+---
+
+## 📦Deliverables :
+- ROS 2 packages implementing the complete solution for the above tasks
+
+## ⏰Deadline : 27/01/2026
