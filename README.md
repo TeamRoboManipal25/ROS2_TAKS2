@@ -35,7 +35,7 @@ Design and implement a **ROS 2–based temperature monitoring system** where:
   **current temperature** and the **maximum safe temperature** using `INFO` logs.
 - Whenever the temperature crosses the defined safe limit
   (`temperature > max_safe_temperature`), the subscriber should additionally
-  log a **WARN** message indicating an **over-temperature condition**.
+  log a `WARN` message indicating an **over-temperature condition**.
 
 
     ### Custom Message Format
