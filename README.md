@@ -6,10 +6,12 @@
 
 1. Create a ROS node to control the turtlesim bot  
    *(Move, Rotate, Go to goal)*
+  
+2. Write a script to draw a circle using the turtlebot
 
-2. Write a script to draw the letter **D** using the turtle bot.
+3. Write a script to draw the letter **D** using the turtle bot.
 
-3. Write a script to implement a **service client** to draw a polygon with
+4. Write a script to implement a **service client** to draw a polygon with
    the number of sides requested by the client.
 
 ---
