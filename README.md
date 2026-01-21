@@ -51,7 +51,7 @@ Design and implement a **ROS 2–based temperature monitoring system** where:
 
 ---
 ## 📚Resources :
-- ROS2 Turtoials Documentations: (https://docs.ros.org/en/humble/Tutorials.html)
+- ROS2 Turtorials Documentations: (https://docs.ros.org/en/humble/Tutorials.html)
 
 ## 📦Deliverables :
 - ROS 2 packages implementing the complete solution for the above tasks
